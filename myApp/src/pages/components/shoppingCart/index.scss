@@ -1,0 +1,20 @@
+@import "~taro-ui/dist/style/components/input-number.scss";
+@import "~taro-ui/dist/style/components/icon.scss";
+@import "~taro-ui/dist/style/components/checkbox.scss";
+@import "~taro-ui/dist/style/components/icon.scss";
+
+.shopping-cart{
+  display: flex;
+  flex-direction: column;
+}
+.shopping-cart .product-list{
+  display: flex;
+  flex-direction: row;
+}
+.shopping-cart .product-list .image{
+  width: 20%;
+}
+.shopping-cart .product-list .product-info{
+  display: flex;
+  flex-direction: column;
+}

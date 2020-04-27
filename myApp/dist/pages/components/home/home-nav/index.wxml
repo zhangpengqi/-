@@ -1,0 +1,7 @@
+<block wx:if="{{$taroCompReady}}">
+    <view class="nav">
+        <view wx:key="index" class="nav-item" wx:for="{{data.navList}}" wx:for-item="item" wx:for-index="_anonIdx2">
+            <image src="{{item.img}}" class="nav-img"></image><text class="nav-text">{{item.name}}</text>
+        </view>
+    </view>
+</block>

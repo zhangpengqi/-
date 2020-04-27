@@ -1,0 +1,11 @@
+<block wx:if="{{$taroCompReady}}">
+    <view class="search">
+        <view class="location">
+            <view class="iconfont icon-location"></view><text class="text">位置信息</text>
+            <view class="iconfont icon-down"></view>
+        </view>
+        <view class="homeSearch" bindtap="anonymousFunc0">
+            <view class="iconfont icon-search"></view><text>输入商品名称</text>
+        </view>
+    </view>
+</block>

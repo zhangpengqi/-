@@ -1,0 +1,32 @@
+.searchPage{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.searchPage .input{
+  display: flex;
+  flex-direction: row;
+  width: 85%;
+  background-color: #F2F2F2;
+  align-items: center;
+  padding: 10px 3%;
+  height: 50px;
+  border-radius: 50px;
+  margin-left: 2%;
+}
+.searchPage .iconfont.icon-search{
+  font-size: 40px;
+  margin-right: 1%;
+}
+.searchPage .return{
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  width: 15%;
+  height: 50px;
+  line-height: 50px;
+  padding: 10px 0;
+  background-color: #0077aa;
+}
+
+

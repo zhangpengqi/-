@@ -1,0 +1,72 @@
+{
+  "id": "1749132",
+  "name": "微信小程序",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "13543849",
+      "name": "加入购物车",
+      "font_class": "jiarugouwuche",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "560643",
+      "name": "down",
+      "font_class": "down1",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "792256",
+      "name": "search",
+      "font_class": "search",
+      "unicode": "e64a",
+      "unicode_decimal": 58954
+    },
+    {
+      "icon_id": "12849771",
+      "name": "碗",
+      "font_class": "-wan",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "499150",
+      "name": "cart",
+      "font_class": "cart",
+      "unicode": "e908",
+      "unicode_decimal": 59656
+    },
+    {
+      "icon_id": "937268",
+      "name": "mine",
+      "font_class": "mine",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "4640927",
+      "name": "分类",
+      "font_class": "fenlei",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "2207679",
+      "name": "icon-location",
+      "font_class": "location",
+      "unicode": "e640",
+      "unicode_decimal": 58944
+    },
+    {
+      "icon_id": "1029956",
+      "name": "home",
+      "font_class": "home",
+      "unicode": "e756",
+      "unicode_decimal": 59222
+    }
+  ]
+}

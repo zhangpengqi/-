@@ -1,0 +1,10 @@
+<block wx:if="{{$taroCompReady}}">
+    <view class="banner">
+        <search></search>
+        <swiper indicator-dots="true" indicator-color="{{true}}" indicator-active-color="#3CB963" autoplay="true" interval="3000" class="swiper">
+            <swiper-item wx:for="{{data.img}}" wx:for-item="item" wx:for-index="_anonIdx2">
+                <cover-image className="banner-img" src="{{item}}"></cover-image>
+            </swiper-item>
+        </swiper>
+    </view>
+</block>

@@ -1,0 +1,12 @@
+<block wx:if="{{$taroCompReady}}">
+    <view><text>猜你喜欢</text>
+        <view class="product">
+            <view wx:key="index" class="product-item" wx:for="{{data.product}}" wx:for-item="item" wx:for-index="_anonIdx2">
+                <image src="{{item.img}}" class="nav-img"></image><text class="product-name">{{item.name}}</text>
+                <view class="product-bottom"><text class="product-price">￥{{item.price}}</text>
+                    <view class="iconfont icon-jiarugouwuche"></view>
+                </view>
+            </view>
+        </view>
+    </view>
+</block>

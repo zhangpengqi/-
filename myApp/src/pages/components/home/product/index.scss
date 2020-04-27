@@ -1,0 +1,38 @@
+.product{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.product-item{
+  width: 48%;
+  margin: 1% 1%;
+  display: flex;
+  flex-direction: column;
+}
+.product-item .nav-img{
+  width: 100%;
+}
+.product-name{
+  height: 60px;
+  margin-bottom: 30px;
+  margin-left: 10%;
+}
+.product-bottom{
+  display: flex;
+  flex-direction: row;
+  justify-content:space-between;
+  flex-wrap: wrap;
+  align-items:stretch  ;
+}
+.product-price{
+  height: 60px;
+  color: red;
+}
+.iconfont.icon-jiarugouwuche{
+  justify-content:center;
+  margin-left: 10px;
+  font-size: 170%;
+  color: #55a532;
+  width: 20%;
+}

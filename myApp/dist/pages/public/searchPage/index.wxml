@@ -1,0 +1,11 @@
+<block wx:if="{{$taroCompReady}}">
+    <view>
+        <view class="searchPage">
+            <view class="input">
+                <view class="iconfont icon-search"></view>
+                <input className="search" type="text" placeholder="输入商品名称" />
+            </view>
+            <view class="return" bindtap="anonymousFunc0">取消</view>
+        </view>
+    </view>
+</block>

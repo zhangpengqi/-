@@ -1,0 +1,7 @@
+<block wx:if="{{$taroCompReady}}">
+    <view class="index">
+        <banner></banner>
+        <home-nav></home-nav>
+        <product></product>
+    </view>
+</block>

@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="30114db1-7110-4bd3-bbf6-55743d40701b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1aIGMuzoyl0e6lQsMMrBlz1LhHk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="editorconfig.notification" value="null# tab | space" />
+    <property name="js.last.introduce.type" value="LET" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../myTest" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.stylelint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.stylelint" value="$PROJECT_DIR$/../../../Program Files/nodejs/node" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.stylelint" value="C:\GitRepos\wechat\myApp\node_modules\stylelint" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="C:\GitRepos\wechat\demo2\myApp\node_modules\prettier" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.3.4\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\GitRepos\wechat\myApp\src\img" />
+      <recent name="C:\GitRepos\wechat\myApp\src\img\tabBar" />
+      <recent name="C:\GitRepos\wechat\myApp\src\pages\test" />
+      <recent name="C:\GitRepos\wechat\myApp\src\pages\components\nav" />
+      <recent name="C:\GitRepos\wechat\myApp\src\pages\components" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\GitRepos\wechat\myApp\src" />
+      <recent name="C:\GitRepos\wechat\myApp\src\pages" />
+      <recent name="C:\GitRepos\wechat\myApp\src\img" />
+      <recent name="C:\GitRepos\wechat\myApp\src\pages\components\home\index" />
+      <recent name="C:\GitRepos\wechat\myApp\src\pages\index" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.httpserver.js">
+    <configuration name="httpserver.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="E:/gitRep/base/http协议/httpserver.js" working-dir="E:/gitRep/base/http协议">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.jsx" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/pages/index/index.jsx" working-dir="$PROJECT_DIR$/src/pages/index">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.httpserver.js" />
+        <item itemvalue="Node.js.index.jsx" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="30114db1-7110-4bd3-bbf6-55743d40701b" name="Default Changelist" comment="" />
+      <created>1586415649758</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586415649758</updated>
+      <workItem from="1586415650981" duration="101000" />
+      <workItem from="1586415840697" duration="2014000" />
+      <workItem from="1586482848011" duration="3489000" />
+      <workItem from="1586642102123" duration="13388000" />
+      <workItem from="1586664389607" duration="184000" />
+      <workItem from="1586671308847" duration="10824000" />
+      <workItem from="1586697915588" duration="882000" />
+      <workItem from="1586737825500" duration="16540000" />
+      <workItem from="1586773715631" duration="988000" />
+      <workItem from="1586774712935" duration="8844000" />
+      <workItem from="1586827568386" duration="56000" />
+      <workItem from="1586827670491" duration="13262000" />
+      <workItem from="1586916422245" duration="3523000" />
+      <workItem from="1587002915084" duration="13748000" />
+      <workItem from="1587516286391" duration="25991000" />
+      <workItem from="1587604965513" duration="40000" />
+      <workItem from="1587605022236" duration="7951000" />
+      <workItem from="1587635840445" duration="10673000" />
+      <workItem from="1587696071447" duration="3749000" />
+      <workItem from="1587711033519" duration="23000" />
+      <workItem from="1587711057758" duration="1014000" />
+      <workItem from="1587716357548" duration="1596000" />
+      <workItem from="1587780379173" duration="1142000" />
+      <workItem from="1587788381003" duration="6413000" />
+      <workItem from="1587806900600" duration="1752000" />
+      <workItem from="1587946070012" duration="601000" />
+      <workItem from="1587979423691" duration="1552000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="492" y="83" key="#ESLint" timestamp="1586829755685">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="492" y="83" key="#ESLint/0.0.1536.834@0.0.1536.834" timestamp="1586829755685" />
+    <state x="-6" y="0" width="814" height="834" key="#Stylelint" timestamp="1586775339100">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="-6" y="0" width="814" height="834" key="#Stylelint/0.0.1536.834@0.0.1536.834" timestamp="1586775339100" />
+    <state x="498" y="218" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587007846698">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="498" y="218" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1587007846698" />
+    <state x="499" y="164" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586673253125">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="499" y="164" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.834@0.0.1536.834" timestamp="1586673253125" />
+    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1587810747040">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1587810747040" />
+    <state width="884" height="366" key="GridCell.Tab.0.bottom" timestamp="1587607601924">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="884" height="366" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1587607601924" />
+    <state width="884" height="366" key="GridCell.Tab.0.center" timestamp="1587607601924">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="884" height="366" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1587607601924" />
+    <state width="884" height="366" key="GridCell.Tab.0.left" timestamp="1587607601924">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="884" height="366" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1587607601924" />
+    <state width="884" height="366" key="GridCell.Tab.0.right" timestamp="1587607601924">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="884" height="366" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1587607601924" />
+    <state x="475" y="119" key="SettingsEditor" timestamp="1586860566150">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="475" y="119" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1586860566150" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1586772533470">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1536.834@0.0.1536.834" timestamp="1586772533470" />
+    <state x="-6" y="0" width="918" height="840" key="dock-window-1" timestamp="1587526956332">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="-6" y="0" width="918" height="840" key="dock-window-1/0.0.1536.834@0.0.1536.834" timestamp="1587526956332" />
+    <state x="119" y="86" width="1029" height="760" key="dock-window-2" timestamp="1587605143148">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="119" y="86" width="1029" height="760" key="dock-window-2/0.0.1536.834@0.0.1536.834" timestamp="1587605143148" />
+    <state x="119" y="226" key="jetbrains.nodejs.interpreters-dialog" timestamp="1586775337547">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="119" y="226" key="jetbrains.nodejs.interpreters-dialog/0.0.1536.834@0.0.1536.834" timestamp="1586775337547" />
+    <state x="430" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1587531913223">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="430" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1587531913223" />
+  </component>
+</project>

@@ -1,0 +1,16 @@
+.nav {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  font-size: 80%;
+  margin-bottom: 20rpx; }
+.nav .nav-item {
+  margin-top: 20rpx;
+  display: flex;
+  flex-direction: column;
+  width: 20%;
+  align-items: center; }
+.nav .nav-item .nav-img {
+  width: 100rpx;
+  height: 100rpx;
+  border-radius: 50rpx; }

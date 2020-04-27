@@ -1,0 +1,43 @@
+@import "../../../../common.wxss";
+.search {
+  position: fixed;
+  display: flex;
+  font-size: 80%;
+  width: 100%;
+  z-index: 99;
+  margin-top: 20rpx; }
+
+.search .iconfont {
+  font-size: 110%; }
+
+.search .location {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 35%;
+  border-radius: 30rpx;
+  margin: 0 2% 0 4%;
+  padding: 1% 4%;
+  background-color: #7C7E80; }
+
+.iconfont.icon-location {
+  color: white; }
+
+.iconfont.icon-down {
+  color: white; }
+
+.text {
+  color: white; }
+
+.search .homeSearch {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  width: 36%;
+  margin: 0 4% 0 2%;
+  padding: 1% 4%;
+  background-color: #F2F2F2;
+  color: #B5B5B5;
+  border-radius: 30rpx; }
+
